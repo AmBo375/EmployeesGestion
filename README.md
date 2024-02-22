@@ -1,6 +1,7 @@
 # EmployeesGestion
 
 Simple console-based Employee Management Interface implemented in Java, allowing users to perform basic operations such as adding employees to the database, removing employees, listing all employees...
+(created by Ammar Bousliman and Ahmed Lahkim)
 
 Classes
 1. Employe
